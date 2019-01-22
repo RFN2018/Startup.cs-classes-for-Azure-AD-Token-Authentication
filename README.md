@@ -16,20 +16,22 @@ Refer to the packages.config file for the full list, I've highlighted some in pa
 'Microsoft.Owin.Host.SystemWeb' package as that isn't explicitely referenced in any of the the files but is neccessary for the 
 authorisation process.
 
-  <package id="Microsoft.IdentityModel.Logging" version="5.3.0" targetFramework="net461" />
-  <package id="Microsoft.IdentityModel.Protocols" version="5.3.0" targetFramework="net461" />
-  <package id="Microsoft.IdentityModel.Protocols.WsFederation" version="5.3.0" targetFramework="net461" />
-  <package id="Microsoft.IdentityModel.Tokens" version="5.3.0" targetFramework="net461" />
-  <package id="Microsoft.IdentityModel.Tokens.Saml" version="5.3.0" targetFramework="net461" />
-  <package id="Microsoft.IdentityModel.Xml" version="5.3.0" targetFramework="net461" />
-  <package id="Microsoft.Owin" version="4.0.0" targetFramework="net461" />
-  <package id="Microsoft.Owin.Host.SystemWeb" version="4.0.0" targetFramework="net461" />
-  <package id="Microsoft.Owin.Security" version="4.0.0" targetFramework="net461" />
-  <package id="Microsoft.Owin.Security.ActiveDirectory" version="4.0.0" targetFramework="net461" />
-  <package id="Microsoft.Owin.Security.Jwt" version="4.0.0" targetFramework="net461" />
-  <package id="Microsoft.Owin.Security.OAuth" version="4.0.0" targetFramework="net461" />
-  <package id="System.IdentityModel.Tokens.Jwt" version="5.2.1" targetFramework="net461" />
-   <package id="Owin" version="1.0" targetFramework="net461" />
+<ul>
+  <li>"Microsoft.IdentityModel.Logging"</li>
+  <li>"Microsoft.IdentityModel.Protocols"</li>
+  <li>"Microsoft.IdentityModel.Protocols.WsFederation"</li>
+  <li>"Microsoft.IdentityModel.Tokens"</li>
+  <li>"Microsoft.IdentityModel.Tokens.Saml"</li>
+  <li>"Microsoft.IdentityModel.Xml"</li>
+  <li>"Microsoft.Owin" </li>
+  <li>"Microsoft.Owin.Host.SystemWeb"</li>
+  <li>"Microsoft.Owin.Security"</li>
+  <li>"Microsoft.Owin.Security.ActiveDirectory"</li>
+  <li>"Microsoft.Owin.Security.Jwt"</li>
+  <li>"Microsoft.Owin.Security.OAuth"</li>
+  <li>"System.IdentityModel.Tokens.Jwt"</li>
+  <li>"Owin"</li>
+</ul>
    
   <h1> Authorisation </h1>
   
